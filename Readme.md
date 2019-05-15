@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Андрей Кутпанаев](https://up.htmlacademy.ru/htmlcss/25/user/1080593).
-* Наставник: [Артём Макаров] (https://up.htmlacademy.ru/htmlcss/25/user/429879).
+* Наставник: [Артем Макаров](https://up.htmlacademy.ru/htmlcss/25/user/429879).
 
 ---
 
